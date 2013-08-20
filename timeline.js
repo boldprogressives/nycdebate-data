@@ -2,9 +2,24 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Brooklyn", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1812401, 
+      "submission": "Do you believe that robots can love?  If so, do you believe that they should?", 
+      "district": "NY_07", 
+      "created": "2013-08-20T13:55:59", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.6955, 
+      "x": -73.9927, 
+      "id": 16320130, 
+      "question_id": "16319927"
+    }, 
+    {
       "category": "robots", 
       "city": "Great Neck", 
-      "votes": 0, 
+      "votes": 1, 
       "last_name": "Jucovy", 
       "user_id": 1195198, 
       "submission": "Are you a robot?", 
@@ -17,13 +32,13 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7867, 
       "x": -73.7258, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-20T14:31:49", 
       "id": 16320118
     }, 
     {
       "category": "robots", 
       "city": "Great Neck", 
-      "votes": 0, 
+      "votes": 2, 
       "last_name": "Jucovy", 
       "user_id": 1195198, 
       "submission": "Do you believe that robots can love?  If so, do you believe that they should?", 
@@ -36,7 +51,7 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7867, 
       "x": -73.7258, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-20T14:37:47", 
       "id": 16319927
     }, 
     {

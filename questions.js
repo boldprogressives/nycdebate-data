@@ -1,6 +1,6 @@
 opendebate.processFetchedQuestions({
   "iface": "list", 
-  "num_votes": 0, 
+  "num_votes": 3, 
   "entries": [
     {
       "category": "robots", 
@@ -12,13 +12,13 @@ opendebate.processFetchedQuestions({
       "submission": "Are you a robot?", 
       "created": "2013-08-20T13:16:03", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "id": 16320118, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.7867, 
       "x": -73.7258, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-20T14:31:49", 
       "district_votes": 0
     }, 
     {
@@ -31,13 +31,13 @@ opendebate.processFetchedQuestions({
       "submission": "Do you believe that robots can love?  If so, do you believe that they should?", 
       "created": "2013-08-20T02:35:57", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 2, 
       "id": 16319927, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.7867, 
       "x": -73.7258, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-20T14:37:47", 
       "district_votes": 0
     }, 
     {
