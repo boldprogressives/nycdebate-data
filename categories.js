@@ -4,7 +4,7 @@ populateCategories([
     "name": "_other"
   }, 
   {
-    "num": 1, 
+    "num": 2, 
     "name": "robots"
   }
 ]);
