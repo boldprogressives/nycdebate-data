@@ -1,4 +1,4 @@
-opendebate.processFetchedQuestions({
+opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
