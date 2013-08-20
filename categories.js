@@ -4,7 +4,11 @@ populateCategories([
     "name": "_other"
   }, 
   {
-    "num": 2, 
+    "num": 3, 
+    "name": "meta"
+  }, 
+  {
+    "num": 3, 
     "name": "robots"
   }
 ]);
