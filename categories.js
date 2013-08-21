@@ -8,7 +8,7 @@ populateCategories([
     "name": "robots"
   }, 
   {
-    "num": 9, 
+    "num": 7, 
     "name": "meta"
   }
 ]);
