@@ -5,6 +5,10 @@ populateCategories([
   }, 
   {
     "num": 1, 
+    "name": "the fridge"
+  }, 
+  {
+    "num": 1, 
     "name": "testing"
   }, 
   {

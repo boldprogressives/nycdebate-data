@@ -3,6 +3,25 @@ opendebate.processFetchedQuestions({
   "num_votes": 30, 
   "entries": [
     {
+      "category": "the fridge", 
+      "city": "Woodside", 
+      "first_name": "michael", 
+      "last_name": "snook", 
+      "user_id": 1014049, 
+      "district": "NY_14", 
+      "submission": "What is this thing in the fridge?", 
+      "created": "2013-08-21T23:00:03", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "id": 16322634, 
+      "state": "NY", 
+      "iface": "question", 
+      "y": 40.7431, 
+      "x": -73.9061, 
+      "latest_vote": null, 
+      "district_votes": 0
+    }, 
+    {
       "category": "meta", 
       "city": "Fenton", 
       "first_name": "Kayla", 
