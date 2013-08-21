@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Ottawa", 
+      "first_name": "Drew", 
+      "last_name": "McConville", 
+      "user_id": 193927, 
+      "submission": "testing", 
+      "district": "IL_16", 
+      "created": "2013-08-21T18:22:36", 
+      "state": "IL", 
+      "iface": "timeline_vote", 
+      "y": 41.3336, 
+      "x": -88.8781, 
+      "id": 16322489, 
+      "question_id": "16321841"
+    }, 
+    {
       "city": "Great Neck", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
@@ -49,7 +64,7 @@ opendebate.processTimeline({
     {
       "category": "meta", 
       "city": "Fenton", 
-      "votes": 2, 
+      "votes": 3, 
       "last_name": "Wingbermuehle", 
       "user_id": 1544042, 
       "submission": "Just another test to make sure this goes through this time.", 
@@ -62,13 +77,13 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 38.5018, 
       "x": -90.4568, 
-      "latest_vote": "2013-08-21T17:43:15", 
+      "latest_vote": "2013-08-21T18:22:16", 
       "id": 16322401
     }, 
     {
       "category": "testing", 
       "city": "Fenton", 
-      "votes": 0, 
+      "votes": 1, 
       "last_name": "Wingbermuehle", 
       "user_id": 1544042, 
       "submission": "Testing", 
@@ -81,13 +96,13 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 38.5018, 
       "x": -90.4568, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-21T18:22:27", 
       "id": 16322400
     }, 
     {
       "category": "meta", 
       "city": "Great Neck", 
-      "votes": 1, 
+      "votes": 2, 
       "last_name": "Jucovy", 
       "user_id": 1195198, 
       "submission": "test meta", 
@@ -100,13 +115,13 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7867, 
       "x": -73.7258, 
-      "latest_vote": "2013-08-21T17:51:54", 
+      "latest_vote": "2013-08-21T18:22:21", 
       "id": 16321844
     }, 
     {
       "category": "meta", 
       "city": "Great Neck", 
-      "votes": 0, 
+      "votes": 1, 
       "last_name": "Jucovy", 
       "user_id": 1195198, 
       "submission": "testing", 
@@ -119,13 +134,13 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7867, 
       "x": -73.7258, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-21T18:22:36", 
       "id": 16321841
     }, 
     {
       "category": "meta", 
       "city": "Great Neck", 
-      "votes": 0, 
+      "votes": 1, 
       "last_name": "Jucovy", 
       "user_id": 1195198, 
       "submission": "test", 
@@ -138,13 +153,13 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7867, 
       "x": -73.7258, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-21T18:22:33", 
       "id": 16321837
     }, 
     {
       "category": "meta", 
       "city": "Great Neck", 
-      "votes": 0, 
+      "votes": 1, 
       "last_name": "Jucovy", 
       "user_id": 1195198, 
       "submission": "I'd like to see a popup.", 
@@ -157,13 +172,13 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7867, 
       "x": -73.7258, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-21T18:22:31", 
       "id": 16320918
     }, 
     {
       "category": "meta", 
       "city": "Woodside", 
-      "votes": 2, 
+      "votes": 3, 
       "last_name": "snook", 
       "user_id": 1014049, 
       "submission": "question times", 
@@ -176,13 +191,13 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": "2013-08-21T16:02:57", 
+      "latest_vote": "2013-08-21T18:22:15", 
       "id": 16320843
     }, 
     {
       "category": "meta", 
       "city": "Woodside", 
-      "votes": 0, 
+      "votes": 1, 
       "last_name": "snook", 
       "user_id": 1014049, 
       "submission": "another q", 
@@ -195,13 +210,13 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-21T18:22:28", 
       "id": 16320841
     }, 
     {
       "category": "meta", 
       "city": "Woodside", 
-      "votes": 2, 
+      "votes": 3, 
       "last_name": "snook", 
       "user_id": 1014049, 
       "submission": "what's a category for anyway?", 
@@ -214,13 +229,13 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": "2013-08-21T16:02:59", 
+      "latest_vote": "2013-08-21T18:22:18", 
       "id": 16320837
     }, 
     {
       "category": "robots", 
       "city": "Woodside", 
-      "votes": 3, 
+      "votes": 4, 
       "last_name": "snook", 
       "user_id": 1014049, 
       "submission": "What will you do about the illegal robot population?", 
@@ -233,23 +248,8 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": "2013-08-21T16:02:55", 
+      "latest_vote": "2013-08-21T18:22:10", 
       "id": 16320823
-    }, 
-    {
-      "city": "Ottawa", 
-      "first_name": "Drew", 
-      "last_name": "McConville", 
-      "user_id": 193927, 
-      "submission": "Are you a robot?", 
-      "district": "IL_16", 
-      "created": "2013-08-20T18:04:48", 
-      "state": "IL", 
-      "iface": "timeline_vote", 
-      "y": 41.3336, 
-      "x": -88.8781, 
-      "id": 16320744, 
-      "question_id": "16320118"
     }, 
     {
       "city": "Brooklyn", 
@@ -307,7 +307,7 @@ opendebate.processTimeline({
     {
       "category": "_other", 
       "city": "Great Neck", 
-      "votes": 2, 
+      "votes": 3, 
       "last_name": "Jucovy", 
       "user_id": 1195198, 
       "submission": "This is a robot's question, that focuses on a robot's concerns.", 
@@ -320,7 +320,7 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7867, 
       "x": -73.7258, 
-      "latest_vote": "2013-08-20T20:39:45", 
+      "latest_vote": "2013-08-21T18:22:19", 
       "id": 16319926
     }
   ]
