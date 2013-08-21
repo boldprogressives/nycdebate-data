@@ -5,10 +5,10 @@ populateCategories([
   }, 
   {
     "num": 3, 
-    "name": "meta"
+    "name": "robots"
   }, 
   {
-    "num": 3, 
-    "name": "robots"
+    "num": 9, 
+    "name": "meta"
   }
 ]);
