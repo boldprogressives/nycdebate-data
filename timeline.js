@@ -4,7 +4,7 @@ opendebate.processTimeline({
     {
       "category": "meta", 
       "city": "Fenton", 
-      "votes": 0, 
+      "votes": 1, 
       "last_name": "Wingbermuehle", 
       "user_id": 1544042, 
       "submission": "Just another test to make sure this goes through this time.", 
@@ -17,7 +17,7 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 38.5018, 
       "x": -90.4568, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-21T17:38:52", 
       "id": 16322401
     }, 
     {
