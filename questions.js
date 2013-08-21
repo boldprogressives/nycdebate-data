@@ -1,6 +1,6 @@
 opendebate.processFetchedQuestions({
   "iface": "list", 
-  "num_votes": 11, 
+  "num_votes": 12, 
   "entries": [
     {
       "category": "meta", 
@@ -164,13 +164,13 @@ opendebate.processFetchedQuestions({
       "submission": "what's a category for anyway?", 
       "created": "2013-08-20T19:59:37", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "id": 16320837, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-21T13:56:37", 
       "district_votes": 0
     }, 
     {

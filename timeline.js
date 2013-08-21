@@ -156,7 +156,7 @@ opendebate.processTimeline({
     {
       "category": "meta", 
       "city": "Woodside", 
-      "votes": 0, 
+      "votes": 1, 
       "last_name": "snook", 
       "user_id": 1014049, 
       "submission": "what's a category for anyway?", 
@@ -169,7 +169,7 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-21T13:56:37", 
       "id": 16320837
     }, 
     {
