@@ -2,9 +2,24 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Woodside", 
+      "first_name": "michael", 
+      "last_name": "snook", 
+      "user_id": 1014049, 
+      "submission": "What is this thing in the fridge?", 
+      "district": "NY_14", 
+      "created": "2013-08-21T23:06:49", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.7431, 
+      "x": -73.9061, 
+      "id": 16322638, 
+      "question_id": "16322634"
+    }, 
+    {
       "category": "the fridge", 
       "city": "Woodside", 
-      "votes": 0, 
+      "votes": 1, 
       "last_name": "snook", 
       "user_id": 1014049, 
       "submission": "What is this thing in the fridge?", 
@@ -17,7 +32,7 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-21T23:06:49", 
       "id": 16322634
     }, 
     {
@@ -49,21 +64,6 @@ opendebate.processTimeline({
       "x": -73.7258, 
       "id": 16322455, 
       "question_id": "16321844"
-    }, 
-    {
-      "city": "Woodside", 
-      "first_name": "michael", 
-      "last_name": "snook", 
-      "user_id": 1014049, 
-      "submission": "Do you believe that robots can love?  If so, do you believe that they should?", 
-      "district": "NY_14", 
-      "created": "2013-08-21T17:46:58", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.7431, 
-      "x": -73.9061, 
-      "id": 16322453, 
-      "question_id": "16319927"
     }, 
     {
       "city": "Fenton", 
