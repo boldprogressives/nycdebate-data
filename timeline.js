@@ -118,7 +118,7 @@ opendebate.processTimeline({
     {
       "category": "meta", 
       "city": "Woodside", 
-      "votes": 1, 
+      "votes": 2, 
       "last_name": "snook", 
       "user_id": 1014049, 
       "submission": "question times", 
@@ -131,7 +131,7 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": "2013-08-21T13:55:02", 
+      "latest_vote": "2013-08-21T16:02:57", 
       "id": 16320843
     }, 
     {
@@ -156,7 +156,7 @@ opendebate.processTimeline({
     {
       "category": "meta", 
       "city": "Woodside", 
-      "votes": 1, 
+      "votes": 2, 
       "last_name": "snook", 
       "user_id": 1014049, 
       "submission": "what's a category for anyway?", 
@@ -169,13 +169,13 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": "2013-08-21T13:56:37", 
+      "latest_vote": "2013-08-21T16:02:59", 
       "id": 16320837
     }, 
     {
       "category": "robots", 
       "city": "Woodside", 
-      "votes": 2, 
+      "votes": 3, 
       "last_name": "snook", 
       "user_id": 1014049, 
       "submission": "What will you do about the illegal robot population?", 
@@ -188,7 +188,7 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": "2013-08-20T21:21:03", 
+      "latest_vote": "2013-08-21T16:02:55", 
       "id": 16320823
     }, 
     {

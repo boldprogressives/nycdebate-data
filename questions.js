@@ -1,6 +1,6 @@
 opendebate.processFetchedQuestions({
   "iface": "list", 
-  "num_votes": 12, 
+  "num_votes": 15, 
   "entries": [
     {
       "category": "meta", 
@@ -126,13 +126,13 @@ opendebate.processFetchedQuestions({
       "submission": "question times", 
       "created": "2013-08-20T20:04:45", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "id": 16320843, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": "2013-08-21T13:55:02", 
+      "latest_vote": "2013-08-21T16:02:57", 
       "district_votes": 0
     }, 
     {
@@ -164,13 +164,13 @@ opendebate.processFetchedQuestions({
       "submission": "what's a category for anyway?", 
       "created": "2013-08-20T19:59:37", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "id": 16320837, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": "2013-08-21T13:56:37", 
+      "latest_vote": "2013-08-21T16:02:59", 
       "district_votes": 0
     }, 
     {
@@ -183,13 +183,13 @@ opendebate.processFetchedQuestions({
       "submission": "What will you do about the illegal robot population?", 
       "created": "2013-08-20T19:53:23", 
       "state_votes": 0, 
-      "votes": 2, 
+      "votes": 3, 
       "id": 16320823, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": "2013-08-20T21:21:03", 
+      "latest_vote": "2013-08-21T16:02:55", 
       "district_votes": 0
     }, 
     {
