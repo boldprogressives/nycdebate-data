@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Great Neck", 
+      "first_name": "Ethan", 
+      "last_name": "Jucovy", 
+      "user_id": 1195198, 
+      "submission": "test meta", 
+      "district": "NY_03", 
+      "created": "2013-08-21T17:51:54", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.7867, 
+      "x": -73.7258, 
+      "id": 16322455, 
+      "question_id": "16321844"
+    }, 
+    {
       "city": "Woodside", 
       "first_name": "michael", 
       "last_name": "snook", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -73.9061, 
       "id": 16322453, 
       "question_id": "16319927"
-    }, 
-    {
-      "city": "Great Neck", 
-      "first_name": "Ethan", 
-      "last_name": "Jucovy", 
-      "user_id": 1195198, 
-      "submission": "Just another test to make sure this goes through this time.", 
-      "district": "NY_03", 
-      "created": "2013-08-21T17:43:15", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.7867, 
-      "x": -73.7258, 
-      "id": 16322452, 
-      "question_id": "16322401"
     }, 
     {
       "city": "Fenton", 
@@ -87,7 +87,7 @@ opendebate.processTimeline({
     {
       "category": "meta", 
       "city": "Great Neck", 
-      "votes": 0, 
+      "votes": 1, 
       "last_name": "Jucovy", 
       "user_id": 1195198, 
       "submission": "test meta", 
@@ -100,7 +100,7 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7867, 
       "x": -73.7258, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-21T17:51:54", 
       "id": 16321844
     }, 
     {

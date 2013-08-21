@@ -1,6 +1,6 @@
 opendebate.processFetchedQuestions({
   "iface": "list", 
-  "num_votes": 18, 
+  "num_votes": 19, 
   "entries": [
     {
       "category": "meta", 
@@ -50,13 +50,13 @@ opendebate.processFetchedQuestions({
       "submission": "test meta", 
       "created": "2013-08-21T12:47:28", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "id": 16321844, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.7867, 
       "x": -73.7258, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-21T17:51:54", 
       "district_votes": 0
     }, 
     {
