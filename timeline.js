@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "michael", 
       "last_name": "snook", 
       "user_id": 1014049, 
-      "submission": "hardcover or soft?", 
+      "submission": "what are your favorite books to read back to back, and have you ever tried reading them in the opposite order from your preferred order?", 
       "district": "NY_14", 
-      "created": "2013-08-22T22:55:36", 
+      "created": "2013-08-22T22:59:29", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "id": 16324409, 
-      "question_id": "16324117"
+      "id": 16324421, 
+      "question_id": "16324114"
     }, 
     {
       "city": "Great Neck", 
@@ -91,7 +91,7 @@ opendebate.processTimeline({
     {
       "category": "books", 
       "city": "Woodside", 
-      "votes": 1, 
+      "votes": 2, 
       "last_name": "snook", 
       "user_id": 1014049, 
       "submission": "what will you do about funding for public libraries?", 
@@ -104,13 +104,13 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": "2013-08-22T19:16:22", 
+      "latest_vote": "2013-08-22T22:59:19", 
       "id": 16324116
     }, 
     {
       "category": "books", 
       "city": "Woodside", 
-      "votes": 0, 
+      "votes": 1, 
       "last_name": "snook", 
       "user_id": 1014049, 
       "submission": "what about jane eyre? she spells her name funny, doesn't she?", 
@@ -123,13 +123,13 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-22T22:59:23", 
       "id": 16324115
     }, 
     {
       "category": "books", 
       "city": "Woodside", 
-      "votes": 0, 
+      "votes": 1, 
       "last_name": "snook", 
       "user_id": 1014049, 
       "submission": "what are your favorite books to read back to back, and have you ever tried reading them in the opposite order from your preferred order?", 
@@ -142,7 +142,7 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-22T22:59:29", 
       "id": 16324114
     }, 
     {

@@ -1,6 +1,6 @@
 opendebate.processFetchedQuestions({
   "iface": "list", 
-  "num_votes": 39, 
+  "num_votes": 42, 
   "entries": [
     {
       "category": "hyperlook", 
@@ -69,13 +69,13 @@ opendebate.processFetchedQuestions({
       "submission": "what will you do about funding for public libraries?", 
       "created": "2013-08-22T18:30:14", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "id": 16324116, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": "2013-08-22T19:16:22", 
+      "latest_vote": "2013-08-22T22:59:19", 
       "district_votes": 0
     }, 
     {
@@ -88,13 +88,13 @@ opendebate.processFetchedQuestions({
       "submission": "what about jane eyre? she spells her name funny, doesn't she?", 
       "created": "2013-08-22T18:29:53", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "id": 16324115, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-22T22:59:23", 
       "district_votes": 0
     }, 
     {
@@ -107,13 +107,13 @@ opendebate.processFetchedQuestions({
       "submission": "what are your favorite books to read back to back, and have you ever tried reading them in the opposite order from your preferred order?", 
       "created": "2013-08-22T18:28:20", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "id": 16324114, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-22T22:59:29", 
       "district_votes": 0
     }, 
     {
