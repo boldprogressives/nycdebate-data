@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Great Neck", 
+      "first_name": "Ethan", 
+      "last_name": "Jucovy", 
+      "user_id": 1195198, 
+      "submission": "hardcover or soft?", 
+      "district": "NY_03", 
+      "created": "2013-08-22T19:16:24", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.7867, 
+      "x": -73.7258, 
+      "id": 16324131, 
+      "question_id": "16324117"
+    }, 
+    {
       "category": "hyperlook", 
       "city": "Woodside", 
       "votes": 0, 
@@ -42,7 +57,7 @@ opendebate.processTimeline({
     {
       "category": "books", 
       "city": "Woodside", 
-      "votes": 0, 
+      "votes": 1, 
       "last_name": "snook", 
       "user_id": 1014049, 
       "submission": "hardcover or soft?", 
@@ -55,13 +70,13 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-22T19:16:24", 
       "id": 16324117
     }, 
     {
       "category": "books", 
       "city": "Woodside", 
-      "votes": 0, 
+      "votes": 1, 
       "last_name": "snook", 
       "user_id": 1014049, 
       "submission": "what will you do about funding for public libraries?", 
@@ -74,7 +89,7 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-22T19:16:22", 
       "id": 16324116
     }, 
     {
@@ -137,7 +152,7 @@ opendebate.processTimeline({
     {
       "category": "the fridge", 
       "city": "Woodside", 
-      "votes": 0, 
+      "votes": 1, 
       "last_name": "snook", 
       "user_id": 1014049, 
       "submission": "submitting a question about the fridge.", 
@@ -150,7 +165,7 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-22T19:16:04", 
       "id": 16324112
     }, 
     {
@@ -201,21 +216,6 @@ opendebate.processTimeline({
       "x": -88.8781, 
       "id": 16322489, 
       "question_id": "16321841"
-    }, 
-    {
-      "city": "Great Neck", 
-      "first_name": "Ethan", 
-      "last_name": "Jucovy", 
-      "user_id": 1195198, 
-      "submission": "test meta", 
-      "district": "NY_03", 
-      "created": "2013-08-21T17:51:54", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.7867, 
-      "x": -73.7258, 
-      "id": 16322455, 
-      "question_id": "16321844"
     }, 
     {
       "city": "Fenton", 

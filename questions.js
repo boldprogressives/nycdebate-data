@@ -1,6 +1,6 @@
 opendebate.processFetchedQuestions({
   "iface": "list", 
-  "num_votes": 31, 
+  "num_votes": 34, 
   "entries": [
     {
       "category": "hyperlook", 
@@ -50,13 +50,13 @@ opendebate.processFetchedQuestions({
       "submission": "hardcover or soft?", 
       "created": "2013-08-22T18:30:30", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "id": 16324117, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-22T19:16:24", 
       "district_votes": 0
     }, 
     {
@@ -69,13 +69,13 @@ opendebate.processFetchedQuestions({
       "submission": "what will you do about funding for public libraries?", 
       "created": "2013-08-22T18:30:14", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "id": 16324116, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-22T19:16:22", 
       "district_votes": 0
     }, 
     {
@@ -145,13 +145,13 @@ opendebate.processFetchedQuestions({
       "submission": "submitting a question about the fridge.", 
       "created": "2013-08-22T18:26:05", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "id": 16324112, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-22T19:16:04", 
       "district_votes": 0
     }, 
     {
