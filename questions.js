@@ -1,6 +1,6 @@
 opendebate.processFetchedQuestions({
   "iface": "list", 
-  "num_votes": 42, 
+  "num_votes": 43, 
   "entries": [
     {
       "category": "hyperlook", 
@@ -126,13 +126,13 @@ opendebate.processFetchedQuestions({
       "submission": "can we put announcements on the fridge or what?", 
       "created": "2013-08-22T18:27:24", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "id": 16324113, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": "2013-08-22T20:44:44", 
+      "latest_vote": "2013-08-22T23:00:13", 
       "district_votes": 0
     }, 
     {

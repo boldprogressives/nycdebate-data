@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "michael", 
       "last_name": "snook", 
       "user_id": 1014049, 
-      "submission": "what are your favorite books to read back to back, and have you ever tried reading them in the opposite order from your preferred order?", 
+      "submission": "can we put announcements on the fridge or what?", 
       "district": "NY_14", 
-      "created": "2013-08-22T22:59:29", 
+      "created": "2013-08-22T23:00:13", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "id": 16324421, 
-      "question_id": "16324114"
+      "id": 16324425, 
+      "question_id": "16324113"
     }, 
     {
       "city": "Great Neck", 
@@ -148,7 +148,7 @@ opendebate.processTimeline({
     {
       "category": "the fridge", 
       "city": "Woodside", 
-      "votes": 1, 
+      "votes": 2, 
       "last_name": "snook", 
       "user_id": 1014049, 
       "submission": "can we put announcements on the fridge or what?", 
@@ -161,7 +161,7 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": "2013-08-22T20:44:44", 
+      "latest_vote": "2013-08-22T23:00:13", 
       "id": 16324113
     }, 
     {
