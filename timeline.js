@@ -2,6 +2,25 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "category": "books", 
+      "city": "Woodside", 
+      "votes": 0, 
+      "last_name": "snook", 
+      "user_id": 1014049, 
+      "submission": "what are your favorite books to read back to back, and have you ever tried reading them in the opposite order from your preferred order?", 
+      "district": "NY_14", 
+      "created": "2013-08-22T18:28:20", 
+      "state_votes": 0, 
+      "first_name": "michael", 
+      "district_votes": 0, 
+      "state": "NY", 
+      "iface": "timeline_question", 
+      "y": 40.7431, 
+      "x": -73.9061, 
+      "latest_vote": null, 
+      "id": 16324114
+    }, 
+    {
       "category": "the fridge", 
       "city": "Woodside", 
       "votes": 0, 
@@ -341,25 +360,6 @@ opendebate.processTimeline({
       "x": -73.7258, 
       "latest_vote": "2013-08-21T02:58:44", 
       "id": 16320118
-    }, 
-    {
-      "category": "robots", 
-      "city": "Great Neck", 
-      "votes": 4, 
-      "last_name": "Jucovy", 
-      "user_id": 1195198, 
-      "submission": "Do you believe that robots can love?  If so, do you believe that they should?", 
-      "district": "NY_03", 
-      "created": "2013-08-20T02:35:57", 
-      "state_votes": 0, 
-      "first_name": "Ethan", 
-      "district_votes": 0, 
-      "state": "NY", 
-      "iface": "timeline_question", 
-      "y": 40.7867, 
-      "x": -73.7258, 
-      "latest_vote": "2013-08-21T17:46:58", 
-      "id": 16319927
     }
   ]
 });

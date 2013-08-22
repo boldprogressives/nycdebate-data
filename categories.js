@@ -1,11 +1,15 @@
 populateCategories([
   {
     "num": 1, 
-    "name": "_other"
+    "name": "testing"
   }, 
   {
     "num": 1, 
-    "name": "testing"
+    "name": "books"
+  }, 
+  {
+    "num": 1, 
+    "name": "_other"
   }, 
   {
     "num": 3, 
