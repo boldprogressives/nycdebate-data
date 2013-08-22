@@ -5,10 +5,6 @@ populateCategories([
   }, 
   {
     "num": 1, 
-    "name": "books"
-  }, 
-  {
-    "num": 1, 
     "name": "_other"
   }, 
   {
@@ -18,6 +14,10 @@ populateCategories([
   {
     "num": 3, 
     "name": "robots"
+  }, 
+  {
+    "num": 4, 
+    "name": "books"
   }, 
   {
     "num": 8, 
