@@ -1,6 +1,6 @@
 opendebate.processFetchedQuestions({
   "iface": "list", 
-  "num_votes": 43, 
+  "num_votes": 46, 
   "entries": [
     {
       "category": "hyperlook", 
@@ -145,13 +145,13 @@ opendebate.processFetchedQuestions({
       "submission": "submitting a question about the fridge.", 
       "created": "2013-08-22T18:26:05", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "id": 16324112, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": "2013-08-22T19:16:04", 
+      "latest_vote": "2013-08-22T23:02:03", 
       "district_votes": 0
     }, 
     {
@@ -202,13 +202,13 @@ opendebate.processFetchedQuestions({
       "submission": "Testing", 
       "created": "2013-08-21T15:31:58", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "id": 16322400, 
       "state": "MO", 
       "iface": "question", 
       "y": 38.5018, 
       "x": -90.4568, 
-      "latest_vote": "2013-08-21T18:22:27", 
+      "latest_vote": "2013-08-22T23:02:14", 
       "district_votes": 0
     }, 
     {
@@ -221,13 +221,13 @@ opendebate.processFetchedQuestions({
       "submission": "test meta", 
       "created": "2013-08-21T12:47:28", 
       "state_votes": 0, 
-      "votes": 2, 
+      "votes": 3, 
       "id": 16321844, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.7867, 
       "x": -73.7258, 
-      "latest_vote": "2013-08-21T18:22:21", 
+      "latest_vote": "2013-08-22T23:02:17", 
       "district_votes": 0
     }, 
     {

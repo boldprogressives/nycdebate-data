@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "michael", 
       "last_name": "snook", 
       "user_id": 1014049, 
-      "submission": "can we put announcements on the fridge or what?", 
+      "submission": "test meta", 
       "district": "NY_14", 
-      "created": "2013-08-22T23:00:13", 
+      "created": "2013-08-22T23:02:17", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "id": 16324425, 
-      "question_id": "16324113"
+      "id": 16324431, 
+      "question_id": "16321844"
     }, 
     {
       "city": "Great Neck", 
@@ -167,7 +167,7 @@ opendebate.processTimeline({
     {
       "category": "the fridge", 
       "city": "Woodside", 
-      "votes": 1, 
+      "votes": 2, 
       "last_name": "snook", 
       "user_id": 1014049, 
       "submission": "submitting a question about the fridge.", 
@@ -180,7 +180,7 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": "2013-08-22T19:16:04", 
+      "latest_vote": "2013-08-22T23:02:03", 
       "id": 16324112
     }, 
     {
@@ -254,7 +254,7 @@ opendebate.processTimeline({
     {
       "category": "testing", 
       "city": "Fenton", 
-      "votes": 1, 
+      "votes": 2, 
       "last_name": "Wingbermuehle", 
       "user_id": 1544042, 
       "submission": "Testing", 
@@ -267,13 +267,13 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 38.5018, 
       "x": -90.4568, 
-      "latest_vote": "2013-08-21T18:22:27", 
+      "latest_vote": "2013-08-22T23:02:14", 
       "id": 16322400
     }, 
     {
       "category": "meta", 
       "city": "Great Neck", 
-      "votes": 2, 
+      "votes": 3, 
       "last_name": "Jucovy", 
       "user_id": 1195198, 
       "submission": "test meta", 
@@ -286,7 +286,7 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7867, 
       "x": -73.7258, 
-      "latest_vote": "2013-08-21T18:22:21", 
+      "latest_vote": "2013-08-22T23:02:17", 
       "id": 16321844
     }, 
     {
