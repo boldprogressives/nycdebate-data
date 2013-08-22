@@ -1,6 +1,6 @@
 opendebate.processFetchedQuestions({
   "iface": "list", 
-  "num_votes": 34, 
+  "num_votes": 36, 
   "entries": [
     {
       "category": "hyperlook", 
@@ -12,13 +12,13 @@ opendebate.processFetchedQuestions({
       "submission": "does it freak you out to think about traveling 700mph in a pneumatic tube?", 
       "created": "2013-08-22T18:32:53", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "id": 16324119, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-22T20:44:43", 
       "district_votes": 0
     }, 
     {
@@ -126,13 +126,13 @@ opendebate.processFetchedQuestions({
       "submission": "can we put announcements on the fridge or what?", 
       "created": "2013-08-22T18:27:24", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "id": 16324113, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-22T20:44:44", 
       "district_votes": 0
     }, 
     {

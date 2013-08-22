@@ -6,20 +6,20 @@ opendebate.processTimeline({
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
       "user_id": 1195198, 
-      "submission": "hardcover or soft?", 
+      "submission": "can we put announcements on the fridge or what?", 
       "district": "NY_03", 
-      "created": "2013-08-22T19:16:24", 
+      "created": "2013-08-22T20:44:44", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7867, 
       "x": -73.7258, 
-      "id": 16324131, 
-      "question_id": "16324117"
+      "id": 16324175, 
+      "question_id": "16324113"
     }, 
     {
       "category": "hyperlook", 
       "city": "Woodside", 
-      "votes": 0, 
+      "votes": 1, 
       "last_name": "snook", 
       "user_id": 1014049, 
       "submission": "does it freak you out to think about traveling 700mph in a pneumatic tube?", 
@@ -32,7 +32,7 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-22T20:44:43", 
       "id": 16324119
     }, 
     {
@@ -133,7 +133,7 @@ opendebate.processTimeline({
     {
       "category": "the fridge", 
       "city": "Woodside", 
-      "votes": 0, 
+      "votes": 1, 
       "last_name": "snook", 
       "user_id": 1014049, 
       "submission": "can we put announcements on the fridge or what?", 
@@ -146,7 +146,7 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-22T20:44:44", 
       "id": 16324113
     }, 
     {
