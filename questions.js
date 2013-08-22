@@ -1,6 +1,6 @@
 opendebate.processFetchedQuestions({
   "iface": "list", 
-  "num_votes": 46, 
+  "num_votes": 47, 
   "entries": [
     {
       "category": "hyperlook", 
@@ -259,13 +259,13 @@ opendebate.processFetchedQuestions({
       "submission": "test", 
       "created": "2013-08-21T12:15:10", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "id": 16321837, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.7867, 
       "x": -73.7258, 
-      "latest_vote": "2013-08-21T18:22:33", 
+      "latest_vote": "2013-08-22T23:03:20", 
       "district_votes": 0
     }, 
     {

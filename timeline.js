@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "michael", 
       "last_name": "snook", 
       "user_id": 1014049, 
-      "submission": "test meta", 
+      "submission": "test", 
       "district": "NY_14", 
-      "created": "2013-08-22T23:02:17", 
+      "created": "2013-08-22T23:03:20", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "id": 16324431, 
-      "question_id": "16321844"
+      "id": 16324433, 
+      "question_id": "16321837"
     }, 
     {
       "city": "Great Neck", 
@@ -311,7 +311,7 @@ opendebate.processTimeline({
     {
       "category": "meta", 
       "city": "Great Neck", 
-      "votes": 1, 
+      "votes": 2, 
       "last_name": "Jucovy", 
       "user_id": 1195198, 
       "submission": "test", 
@@ -324,7 +324,7 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7867, 
       "x": -73.7258, 
-      "latest_vote": "2013-08-21T18:22:33", 
+      "latest_vote": "2013-08-22T23:03:20", 
       "id": 16321837
     }, 
     {
