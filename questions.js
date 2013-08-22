@@ -1,6 +1,6 @@
 opendebate.processFetchedQuestions({
   "iface": "list", 
-  "num_votes": 37, 
+  "num_votes": 39, 
   "entries": [
     {
       "category": "hyperlook", 
@@ -31,13 +31,13 @@ opendebate.processFetchedQuestions({
       "submission": "should we build the hyperloop here in NYC just to show CA that we're still number 1?", 
       "created": "2013-08-22T18:32:28", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "id": 16324118, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-22T22:55:02", 
       "district_votes": 0
     }, 
     {
@@ -50,13 +50,13 @@ opendebate.processFetchedQuestions({
       "submission": "hardcover or soft?", 
       "created": "2013-08-22T18:30:30", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "id": 16324117, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": "2013-08-22T19:16:24", 
+      "latest_vote": "2013-08-22T22:55:36", 
       "district_votes": 0
     }, 
     {

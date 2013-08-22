@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "michael", 
       "last_name": "snook", 
       "user_id": 1014049, 
-      "submission": "does it freak you out to think about traveling 700mph in a pneumatic tube?", 
+      "submission": "hardcover or soft?", 
       "district": "NY_14", 
-      "created": "2013-08-22T21:39:47", 
+      "created": "2013-08-22T22:55:36", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "id": 16324250, 
-      "question_id": "16324119"
+      "id": 16324409, 
+      "question_id": "16324117"
     }, 
     {
       "city": "Great Neck", 
@@ -53,7 +53,7 @@ opendebate.processTimeline({
     {
       "category": "hyperloop", 
       "city": "Woodside", 
-      "votes": 0, 
+      "votes": 1, 
       "last_name": "snook", 
       "user_id": 1014049, 
       "submission": "should we build the hyperloop here in NYC just to show CA that we're still number 1?", 
@@ -66,13 +66,13 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-22T22:55:02", 
       "id": 16324118
     }, 
     {
       "category": "books", 
       "city": "Woodside", 
-      "votes": 1, 
+      "votes": 2, 
       "last_name": "snook", 
       "user_id": 1014049, 
       "submission": "hardcover or soft?", 
@@ -85,7 +85,7 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": "2013-08-22T19:16:24", 
+      "latest_vote": "2013-08-22T22:55:36", 
       "id": 16324117
     }, 
     {
