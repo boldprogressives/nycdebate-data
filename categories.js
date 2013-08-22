@@ -5,11 +5,11 @@ populateCategories([
   }, 
   {
     "num": 1, 
-    "name": "the fridge"
+    "name": "testing"
   }, 
   {
-    "num": 1, 
-    "name": "testing"
+    "num": 2, 
+    "name": "the fridge"
   }, 
   {
     "num": 3, 
