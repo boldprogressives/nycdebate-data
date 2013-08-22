@@ -8,7 +8,7 @@ populateCategories([
     "name": "testing"
   }, 
   {
-    "num": 2, 
+    "num": 3, 
     "name": "the fridge"
   }, 
   {

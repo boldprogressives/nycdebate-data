@@ -7,6 +7,25 @@ opendebate.processTimeline({
       "votes": 0, 
       "last_name": "snook", 
       "user_id": 1014049, 
+      "submission": "can we put announcements on the fridge or what?", 
+      "district": "NY_14", 
+      "created": "2013-08-22T18:27:24", 
+      "state_votes": 0, 
+      "first_name": "michael", 
+      "district_votes": 0, 
+      "state": "NY", 
+      "iface": "timeline_question", 
+      "y": 40.7431, 
+      "x": -73.9061, 
+      "latest_vote": null, 
+      "id": 16324113
+    }, 
+    {
+      "category": "the fridge", 
+      "city": "Woodside", 
+      "votes": 0, 
+      "last_name": "snook", 
+      "user_id": 1014049, 
       "submission": "submitting a question about the fridge.", 
       "district": "NY_14", 
       "created": "2013-08-22T18:26:05", 
@@ -341,25 +360,6 @@ opendebate.processTimeline({
       "x": -73.7258, 
       "latest_vote": "2013-08-21T17:46:58", 
       "id": 16319927
-    }, 
-    {
-      "category": "_other", 
-      "city": "Great Neck", 
-      "votes": 3, 
-      "last_name": "Jucovy", 
-      "user_id": 1195198, 
-      "submission": "This is a robot's question, that focuses on a robot's concerns.", 
-      "district": "NY_03", 
-      "created": "2013-08-20T02:35:04", 
-      "state_votes": 0, 
-      "first_name": "Ethan", 
-      "district_votes": 0, 
-      "state": "NY", 
-      "iface": "timeline_question", 
-      "y": 40.7867, 
-      "x": -73.7258, 
-      "latest_vote": "2013-08-21T18:22:19", 
-      "id": 16319926
     }
   ]
 });
