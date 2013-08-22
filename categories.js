@@ -1,7 +1,15 @@
 populateCategories([
   {
     "num": 1, 
+    "name": "hyperloop"
+  }, 
+  {
+    "num": 1, 
     "name": "testing"
+  }, 
+  {
+    "num": 1, 
+    "name": "hyperlook"
   }, 
   {
     "num": 1, 
