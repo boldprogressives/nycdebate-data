@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Woodside", 
+      "first_name": "michael", 
+      "last_name": "snook", 
+      "user_id": 1014049, 
+      "submission": "does it freak you out to think about traveling 700mph in a pneumatic tube?", 
+      "district": "NY_14", 
+      "created": "2013-08-22T21:39:47", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.7431, 
+      "x": -73.9061, 
+      "id": 16324250, 
+      "question_id": "16324119"
+    }, 
+    {
       "city": "Great Neck", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
@@ -19,7 +34,7 @@ opendebate.processTimeline({
     {
       "category": "hyperlook", 
       "city": "Woodside", 
-      "votes": 1, 
+      "votes": 2, 
       "last_name": "snook", 
       "user_id": 1014049, 
       "submission": "does it freak you out to think about traveling 700mph in a pneumatic tube?", 
@@ -32,7 +47,7 @@ opendebate.processTimeline({
       "iface": "timeline_question", 
       "y": 40.7431, 
       "x": -73.9061, 
-      "latest_vote": "2013-08-22T20:44:43", 
+      "latest_vote": "2013-08-22T21:39:47", 
       "id": 16324119
     }, 
     {
@@ -167,21 +182,6 @@ opendebate.processTimeline({
       "x": -73.9061, 
       "latest_vote": "2013-08-22T19:16:04", 
       "id": 16324112
-    }, 
-    {
-      "city": "Woodside", 
-      "first_name": "michael", 
-      "last_name": "snook", 
-      "user_id": 1014049, 
-      "submission": "What is this thing in the fridge?", 
-      "district": "NY_14", 
-      "created": "2013-08-21T23:06:49", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.7431, 
-      "x": -73.9061, 
-      "id": 16322638, 
-      "question_id": "16322634"
     }, 
     {
       "category": "the fridge", 
