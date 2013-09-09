@@ -1,10 +1,6 @@
 populateCategories([
   {
     "num": 1, 
-    "name": "hyperloop"
-  }, 
-  {
-    "num": 1, 
     "name": "testing"
   }, 
   {
@@ -14,6 +10,10 @@ populateCategories([
   {
     "num": 1, 
     "name": "_other"
+  }, 
+  {
+    "num": 2, 
+    "name": "hyperloop"
   }, 
   {
     "num": 3, 
