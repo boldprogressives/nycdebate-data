@@ -5,7 +5,7 @@ opendebate.processFetchedQuestions({
     {
       "category": "hyperloop", 
       "city": "Washington", 
-      "first_name": "Michael", 
+      "first_name": "michael", 
       "last_name": "Snook", 
       "user_id": 1014049, 
       "district": "DC_01", 
@@ -24,7 +24,7 @@ opendebate.processFetchedQuestions({
     {
       "category": "hyperlook", 
       "city": "Washington", 
-      "first_name": "Michael", 
+      "first_name": "michael", 
       "last_name": "Snook", 
       "user_id": 1014049, 
       "district": "DC_01", 
@@ -43,7 +43,7 @@ opendebate.processFetchedQuestions({
     {
       "category": "hyperloop", 
       "city": "Washington", 
-      "first_name": "Michael", 
+      "first_name": "michael", 
       "last_name": "Snook", 
       "user_id": 1014049, 
       "district": "DC_01", 
@@ -62,7 +62,7 @@ opendebate.processFetchedQuestions({
     {
       "category": "books", 
       "city": "Washington", 
-      "first_name": "Michael", 
+      "first_name": "michael", 
       "last_name": "Snook", 
       "user_id": 1014049, 
       "district": "DC_01", 
@@ -81,7 +81,7 @@ opendebate.processFetchedQuestions({
     {
       "category": "books", 
       "city": "Washington", 
-      "first_name": "Michael", 
+      "first_name": "michael", 
       "last_name": "Snook", 
       "user_id": 1014049, 
       "district": "DC_01", 
@@ -100,7 +100,7 @@ opendebate.processFetchedQuestions({
     {
       "category": "books", 
       "city": "Washington", 
-      "first_name": "Michael", 
+      "first_name": "michael", 
       "last_name": "Snook", 
       "user_id": 1014049, 
       "district": "DC_01", 
@@ -119,7 +119,7 @@ opendebate.processFetchedQuestions({
     {
       "category": "books", 
       "city": "Washington", 
-      "first_name": "Michael", 
+      "first_name": "michael", 
       "last_name": "Snook", 
       "user_id": 1014049, 
       "district": "DC_01", 
@@ -138,7 +138,7 @@ opendebate.processFetchedQuestions({
     {
       "category": "the fridge", 
       "city": "Washington", 
-      "first_name": "Michael", 
+      "first_name": "michael", 
       "last_name": "Snook", 
       "user_id": 1014049, 
       "district": "DC_01", 
@@ -157,7 +157,7 @@ opendebate.processFetchedQuestions({
     {
       "category": "the fridge", 
       "city": "Washington", 
-      "first_name": "Michael", 
+      "first_name": "michael", 
       "last_name": "Snook", 
       "user_id": 1014049, 
       "district": "DC_01", 
@@ -176,7 +176,7 @@ opendebate.processFetchedQuestions({
     {
       "category": "the fridge", 
       "city": "Washington", 
-      "first_name": "Michael", 
+      "first_name": "michael", 
       "last_name": "Snook", 
       "user_id": 1014049, 
       "district": "DC_01", 
@@ -309,7 +309,7 @@ opendebate.processFetchedQuestions({
     {
       "category": "meta", 
       "city": "Washington", 
-      "first_name": "Michael", 
+      "first_name": "michael", 
       "last_name": "Snook", 
       "user_id": 1014049, 
       "district": "DC_01", 
@@ -328,7 +328,7 @@ opendebate.processFetchedQuestions({
     {
       "category": "meta", 
       "city": "Washington", 
-      "first_name": "Michael", 
+      "first_name": "michael", 
       "last_name": "Snook", 
       "user_id": 1014049, 
       "district": "DC_01", 
@@ -347,7 +347,7 @@ opendebate.processFetchedQuestions({
     {
       "category": "meta", 
       "city": "Washington", 
-      "first_name": "Michael", 
+      "first_name": "michael", 
       "last_name": "Snook", 
       "user_id": 1014049, 
       "district": "DC_01", 
@@ -366,7 +366,7 @@ opendebate.processFetchedQuestions({
     {
       "category": "robots", 
       "city": "Washington", 
-      "first_name": "Michael", 
+      "first_name": "michael", 
       "last_name": "Snook", 
       "user_id": 1014049, 
       "district": "DC_01", 
