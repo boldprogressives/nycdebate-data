@@ -5,6 +5,10 @@ populateCategories([
   }, 
   {
     "num": 1, 
+    "name": "Handling terrorism"
+  }, 
+  {
+    "num": 1, 
     "name": "hyperlook"
   }, 
   {

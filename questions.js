@@ -3,6 +3,25 @@ opendebate.processFetchedQuestions({
   "num_votes": 47, 
   "entries": [
     {
+      "category": "Handling terrorism", 
+      "city": "Staten Island", 
+      "first_name": "Ros", 
+      "last_name": "Kaplan", 
+      "user_id": 1823160, 
+      "district": "NY_11", 
+      "submission": "1)On what basis does D Blasio deny that under Kelly the crime rate is down and the statistics document  it?  Where is his documentation? (2) How does D Blasio think raising the taxes will help our Economy? If business and wealthy people leave NYC that will clearly hurt our Economy. (3) How does D Blasio plan to help middle class people?(4) Instead of D Blasio making statements about what he would do as mayor why doesn't he give NYC residents a  clear plan?(5) How does D Blasio  intend to prevent another terrorist attack? If he opposes investigating suspicious people?(6)  How does Lhota intend to prevent terrorism?(7)  How would Lhota help the middle class?(8) How would they both help Staten Islanders who often wait days to be plowed after a major snow storm?", 
+      "created": "2013-10-13T22:19:06", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "id": 19786474, 
+      "state": "NY", 
+      "iface": "question", 
+      "y": 40.5426, 
+      "x": -74.179, 
+      "latest_vote": null, 
+      "district_votes": 0
+    }, 
+    {
       "category": "hyperloop", 
       "city": "Washington", 
       "first_name": "michael", 
